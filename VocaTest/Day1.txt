@@ -1,0 +1,13 @@
+apple|사과
+egg|계란
+person|사람
+bit|약간
+beach|해변
+later|나중에
+bribe|뇌물
+contest|대회
+heal|치유되다
+permit|허용하다
+better|나은
+energy|활기
+@|학습 종료0

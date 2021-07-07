@@ -1,0 +1,10 @@
+awfully|몹시
+context|맥락
+image|이미지
+blind|맹인
+loan|대출
+practice|실행
+echo|메아리
+universe|우주
+planet|행성
+@|학습종료
