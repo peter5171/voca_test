@@ -6,8 +6,5 @@ we can memorization voca
 
 during voca test and play mini game
 
-This project read a text file to get vocas
-```bash
-./VocaTest/Day1.txt
-```
+> This project read a text file to get vocas
 
